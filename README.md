@@ -2,7 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Hey%2C+I'm+Pranav+Pradeesh+%F0%9F%91%8B;Tech+Explorer+%7C+AI+Builder+%7C+IoT+Innovator+%F0%9F%A7%A0;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing animation" />
 
 <p align="center">
-  <img src="https://i.imgur.com/w5YEV6S.png" width="700"/>
+  <video autoplay loop muted playsinline width="100%">
+    <source src="PRANAV%20PRADEESH_20250708_003344_0002.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ---
