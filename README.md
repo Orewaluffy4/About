@@ -58,7 +58,7 @@ Hi there! I'm **Pranav Pradeesh** – a self-taught developer, higher secondary 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:achupradeesh1984@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/achupradeesh"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
 </p>
 
