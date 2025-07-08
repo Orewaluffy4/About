@@ -4,9 +4,8 @@
 </p>
 
 <!-- Animated GIF Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c41959b1-5490-4bdb-9437-2203b57035c4" alt="Animated Banner" width="100%" />
-</p>
+
+![output-onlinegiftools](https://github.com/user-attachments/assets/305d7965-371b-4aa4-909e-b249542d9801)
 
 ---
 
