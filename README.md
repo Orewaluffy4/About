@@ -1,10 +1,12 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Hey%2C+I'm+Pranav+Pradeesh+%F0%9F%91%8B;Tech+Explorer+%7C+AI+Builder+%7C+IoT+Innovator+%F0%9F%A7%A0;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing animation" />
+<!-- Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Hey%2C+I'm+Pranav+Pradeesh+%F0%9F%91%8B;Tech+Explorer+%7C+AI+Builder+%7C+IoT+Innovator+%F0%9F%A7%A0;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing animation" />
+</p>
 
-
-
-![PRANAV PRADEESH_20250708_003046_0001 (1)](https://github.com/user-attachments/assets/c41959b1-5490-4bdb-9437-2203b57035c4)
-
+<!-- Animated GIF Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c41959b1-5490-4bdb-9437-2203b57035c4" alt="Animated Banner" width="100%" />
+</p>
 
 ---
 
