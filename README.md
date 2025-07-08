@@ -1,8 +1,8 @@
 <!-- Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Hey%2C+I'm+Pranav+Pradeesh+%F0%9F%91%8B;Tech+Explorer+%7C+AI+Builder+%7C+IoT+Innovator+%F0%9F%A7%A0;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing animation" />
 
-https://github.com/user-attachments/assets/fec6664c-b4c5-495d-93b9-614eaa71ee1e
 
+![PRANAV PRADEESH_20250708_003046_0001 (1)](https://github.com/user-attachments/assets/74c2c127-b8f3-4626-9cdb-f77bf9a36ffb)
 
 
 
