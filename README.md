@@ -52,7 +52,7 @@ Right now, I’m diving into:
 ## 🧰 My Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,python,html,css,js,nodejs,git,github,vscode,replit,c++" />
+  <img src="https://skillicons.dev/icons?i=arduino,python,html,css,js,nodejs,git,github,vscode,replit,cpp" />
 </p>
 
 ---
